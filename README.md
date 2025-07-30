@@ -31,7 +31,7 @@ EduMaster is a simple, responsive online learning platform built using **pure HT
 ## 📁 File Structure
 
 ```
-project/
+edumaster/
 ├── index.html
 ├── courses.html
 ├── login.html
@@ -43,8 +43,10 @@ project/
 │   └── index.css
 ├── js/
 │   └── common.js
-└── images/
-    └── favicon.ico, certificate.png, etc.
+├── images/
+│   └── favicon.ico, certificate.png, etc.
+├── README.md
+└── screenshot.png
 ```
 
 ## 📝 Notes
