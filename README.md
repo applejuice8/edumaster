@@ -2,6 +2,8 @@
 
 EduMaster is a simple, responsive online learning platform built using **pure HTML, CSS, and JavaScript**. It features mock login and signup functionality with client-side form validation and smooth UI components.
 
+![Screenshot](screenshot.png)
+
 ## ✨ Features
 
 - 🖥️ Fully responsive homepage with hero banner, learning paths, and testimonials
